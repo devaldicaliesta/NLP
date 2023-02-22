@@ -1,2 +1,2 @@
 # NLP
-NLP untuk mencari positive, negative dan neutural komentar
+NLP untuk mencari positive, negative dan neutral komentar
